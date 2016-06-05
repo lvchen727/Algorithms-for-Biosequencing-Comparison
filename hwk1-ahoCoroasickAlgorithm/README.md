@@ -1,8 +1,8 @@
 This program implements Aho-Corasick algorithm by building Trie structures.
 There are three crucial functions, as stated in the original paper:
--  goto function
--  fail function
--  output function(Here I used Emit class to store all the outputs)
+1.  goto function
+2.  fail function
+3.  output function(Here I used Emit class to store all the outputs)
 
 Every base encountered is presented to a state object within the goto structure.
  If there is a matching state, that will be elevated to the new current state.
