@@ -17,11 +17,13 @@ There are four crucial functions, as stated in the paper:
 
 The simple test case I used to check my program was from the paper:
 
+```python
 seq = “ATTATTAATTATATTATAATATA”
 bwt =  “ATTTTTATTTA$AATATTTAAAAA”
 r_bwt = “ATTTT$TATTTATATATTAAAAAA”
-
+```
 The output was checked manually and looked fine.
+```
 k Nk
 1 2
 2 4
@@ -46,7 +48,7 @@ k Nk
 21 3
 22 2
 23 1
-
+```
 The program intially runs really slow given bwt and rev_bwt of hu-chr1.
 However, after applying the trick from Problem 2(b) - always pushing the
 largest bi-interval I onto the stack first by modifying markKmer function 
