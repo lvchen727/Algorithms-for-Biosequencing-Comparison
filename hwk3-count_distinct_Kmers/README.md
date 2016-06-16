@@ -52,5 +52,4 @@ k Nk
 The program intially runs really slow given bwt and rev_bwt of hu-chr1.
 However, after applying the trick from Problem 2(b) - always pushing the
 largest bi-interval I onto the stack first by modifying markKmer function 
-a little bit, the program starts working well. It generated outputs, but probably
-need one week to generate all the outputs.
+a little bit, the program starts working well. 
