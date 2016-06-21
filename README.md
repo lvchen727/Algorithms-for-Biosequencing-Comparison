@@ -1,8 +1,8 @@
-#####Programming Projects for CSE 584A Algorithms for Biosequence Comparison@Wash U
+#####Algorithms for Biosequence Comparison
 
 The codes are for my own future reference and for prospective employers to judge my competence.
 
-**Name**: CSE 584A Algorithms for Biosequence Comparison (Graduate-Level)
+**Name**: CSE 584A Algorithms for Biosequence Comparison@Wash U (Graduate-Level)
 
 **Instuctor**: Dr. Jeremy Buhler.
 
