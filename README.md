@@ -1,4 +1,4 @@
-###Programming Projects for CSE 584A Algorithms for Biosequence Comparison@Wash U
+**Programming Projects for CSE 584A Algorithms for Biosequence Comparison@Wash U**
 
 - The codes are for my own future reference and for prospective employers to judge my competence.
 - CSE 584A Algorithms for Biosequence Comparison (Graduate-Level)
