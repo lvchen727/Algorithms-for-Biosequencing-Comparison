@@ -1,4 +1,4 @@
-#####Algorithms for Biosequence Comparison
+#Algorithms for Biosequence Comparison
 
 The codes are for my own future reference and for prospective employers to judge my competence.
 
