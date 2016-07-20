@@ -16,5 +16,5 @@ This course surveys algorithms for comparing and organizing discrete sequential 
 
 * Project 1:  Implement the Aho-Corasick algorithm
 * Project 2: Implement the linear-time DC3 suffix array construction algorithm
-*	Project 3: Implement the computation of distinct k-mers Project 4: Naive 
+*	Project 3: Implement the computation of distinct k-mers 
 *	Final Project: k-mer Kernels for Genetic Distance
